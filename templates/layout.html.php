@@ -24,7 +24,7 @@
   </main>
 
   <footer>
-  &copy; IJDB 2018
+  &copy; IJDB 2019
   </footer>
   </body>
 </html>
