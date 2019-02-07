@@ -3,7 +3,7 @@ require '../loadTemplate.php';
 require '../database.php';
 require '../functions.php';
 
-$title = 'Internet Joke Database';
+$title = 'I\'m the joke';
 
 $joke = find($pdo, 'joke', 'id', 1);
 
