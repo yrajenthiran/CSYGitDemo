@@ -29,7 +29,7 @@
   <footer class="site-footer">
   &copy; IJDB 2019
   <ul class="social-icons">
-    <li><a href="https://twitter.com/UniNorthants"><i class="fab fa-twitter"><i></a></li>
+    <li><a href="https://twitter.com/UniNorthants"><i class="fab fa-twitter"></i></a></li>
   </ul>
   </footer>
   </body>
